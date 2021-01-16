@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blocks/wool_colored_black",
+		"0": "block/black_concrete",
 		"1": "models/mickeyhat",
-		"particle": "blocks/wool_colored_black"
+		"particle": "block/black_concrete"
 	},
 	"elements": [
 		{
