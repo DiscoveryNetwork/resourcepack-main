@@ -1,0 +1,13 @@
+{{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/iron_sword"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/wdw/props/backpack"},
+		{"predicate": {"custom_model_data":2}, "model": "item/wdw/props/band"},
+		{"predicate": {"custom_model_data":3}, "model": "item/wdw/props/magicband"},
+		{"predicate": {"custom_model_data":4}, "model": "item/wdw/props/hat"}
+	]
+}

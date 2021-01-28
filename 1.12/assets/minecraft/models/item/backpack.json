@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/black_wool",
-		"3": "block/iron_block",
+		"0": "blocks/wool_colored_black",
+		"3": "blocks/iron_block",
 		"4": "models/mickey",
-		"5": "block/red_wool",
-		"particle": "block/black_wool"
+		"5": "blocks/wool_colored_red",
+		"particle": "blocks/wool_colored_black"
 	},
 	"elements": [
 		{

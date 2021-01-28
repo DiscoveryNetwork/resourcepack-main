@@ -1,0 +1,23 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/diamond_pickaxe"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/cwoa/props/arcade machiens/claw_machien_1"},
+		{"predicate": {"custom_model_data":2}, "model": "item/cwoa/props/bench/mexicana_bench"},
+		{"predicate": {"custom_model_data":3}, "model": "item/cwoa/props/toilet/toilet"},
+		{"predicate": {"custom_model_data":4}, "model": "item/cwoa/props/bench/bench v2"},
+		{"predicate": {"custom_model_data":5}, "model": "item/cwoa/props/bench/bench"},
+		{"predicate": {"custom_model_data":6}, "model": "item/cwoa/props/bins/black/bin green"},
+		{"predicate": {"custom_model_data":7}, "model": "item/cwoa/props/bins/green/bin green"},
+		{"predicate": {"custom_model_data":8}, "model": "item/cwoa/props/brakes/brakes"},
+		{"predicate": {"custom_model_data":9}, "model": "item/cwoa/props/cogs/vampire/vampire_cogs"},
+		{"predicate": {"custom_model_data":11}, "model": "item/cwoa/props/cogs/vampire/vampire_cogs_bottom"},
+		{"predicate": {"custom_model_data":12}, "model": "item/cwoa/props/cogs/drive wheens/track_drive_wheel"},
+		{"predicate": {"custom_model_data":13}, "model": "item/cwoa/props/elephants/elephantstatue"},
+		{"predicate": {"custom_model_data":14}, "model": "item/cwoa/props/misc/chessy_hat"},
+		{"predicate": {"custom_model_data":15}, "model": "item/cwoa/props/misc/till"}
+	]
+}

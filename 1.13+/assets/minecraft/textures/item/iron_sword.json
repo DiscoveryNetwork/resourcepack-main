@@ -1,0 +1,15 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/iron_sword"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/wdw/props/backpack"},
+		{"predicate": {"custom_model_data":2}, "model": "item/wdw/props/band"},
+		{"predicate": {"custom_model_data":3}, "model": "item/wdw/props/dlp_trolley"}
+		{"predicate": {"custom_model_data":4}, "model": "item/wdw/props/golden_shovel"}
+		{"predicate": {"custom_model_data":5}, "model": "item/wdw/props/hat"}
+		{"predicate": {"custom_model_data":6}, "model": "item/wdw/props/wdw_trolley"}
+	]
+}

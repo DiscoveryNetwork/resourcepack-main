@@ -1,0 +1,12 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/iron_hoe"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/atr/rides/spinball/spinball_cart"},
+		{"predicate": {"custom_model_data":2}, "model": "item/atr/rides/spinball/spinball_bottom_assembly"},
+		{"predicate": {"custom_model_data":3}, "model": "item/texture_example"}
+	]
+}

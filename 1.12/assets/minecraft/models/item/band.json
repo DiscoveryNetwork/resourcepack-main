@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/purple_shulker_box",
-		"1": "block/anvil",
-		"2": "item/music_disc_stal",
-		"particle": "block/purple_shulker_box"
+		"0": "blocks/purple_shulker_box",
+		"1": "blocks/anvil",
+		"2": "items/record_stal",
+		"particle": "blocks/purple_shulker_box"
 	},
 	"elements": [
 		{
