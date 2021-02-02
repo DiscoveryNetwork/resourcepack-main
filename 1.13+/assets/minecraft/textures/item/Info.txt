@@ -1,6 +1,0 @@
-diamond_sword = WDW Ride Models
-iron_hoe = ATR Ride Models
-diamond_hoe = CWOA Ride Models
-diamond_pickaxe= CWOA Props
-iron_pickaxe = ATR Props
-iron_sword = WDW Probs

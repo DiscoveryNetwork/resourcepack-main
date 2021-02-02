@@ -8,7 +8,7 @@
 		"4": "blocks/wool_colored_silver",
 		"5": "blocks/planks_acacia",
 		"6": "blocks/wool_colored_green",
-		"7": "atr/texture",
+		"7": "blocks/concrete_white",
 		"particle": "blocks/anvil_top"
 	},
 	"elements": [

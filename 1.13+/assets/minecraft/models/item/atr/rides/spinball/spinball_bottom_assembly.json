@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"6": "custom/coaster/black"
+		"6": "block/black_concrete"
 	},
 	"elements": [
 		{

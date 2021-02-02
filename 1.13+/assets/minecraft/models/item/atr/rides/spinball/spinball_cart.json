@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "custom/coaster/logo",
-		"1": "custom/coaster/concrete_silver",
-		"2": "custom/coaster/blue",
-		"6": "custom/coaster/black",
-		"8": "custom/coaster/spinballlogo",
-		"particle": "custom/coaster/logo"
+		"0": "custom/pictures/spinball_whizzer",
+		"1": "block/light_gray_concrete",
+		"2": "block/blue_concrete",
+		"6": "block/black_concrete",
+		"8": "custom/pictures/spinball_towers",
+		"particle": "custom/pictures/spinball_whizzer"
 	},
 	"elements": [
 		{
