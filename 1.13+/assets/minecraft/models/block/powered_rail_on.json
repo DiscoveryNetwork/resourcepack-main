@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/diamond_ore",
-		"1": "block/enchanting_table_bottom",
-		"2": "block/anvil",
-		"particle": "block/diamond_ore"
+		"0": "block/light_gray_wool",
+		"1": "block/iron_door_bottom",
+		"2": "block/redstone_block",
+		"particle": "block/light_gray_wool"
 	},
 	"elements": [
 		{
@@ -48,8 +48,8 @@
 		},
 		{
 			"name": "Power",
-			"from": [7.5, 1, 4],
-			"to": [8.5, 1.1, 12],
+			"from": [7.5, 1, 0],
+			"to": [8.5, 1.1, 16],
 			"faces": {
 				"north": {"uv": [0, 0, 0.1, 0.1], "texture": "#0"},
 				"east": {"uv": [0, 0, 0.1, 0.1], "texture": "#0"},

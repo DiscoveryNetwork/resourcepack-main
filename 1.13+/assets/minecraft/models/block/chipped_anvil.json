@@ -1,15 +1,15 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "atr/anvil_top",
+		"0": "block/anvil_top",
 		"1": "block/white_wool",
 		"2": "block/black_wool",
 		"3": "block/orange_wool",
 		"4": "block/light_gray_wool",
 		"5": "block/acacia_planks",
 		"6": "block/green_wool",
-		"7": "atr/texture",
-		"particle": "atr/anvil_top"
+		"7": "block/white_concrete",
+		"particle": "block/anvil_top"
 	},
 	"elements": [
 		{

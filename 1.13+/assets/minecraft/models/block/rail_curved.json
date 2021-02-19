@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/diamond_ore",
-		"1": "block/enchanting_table_bottom",
-		"particle": "block/diamond_ore"
+		"0": "block/light_gray_wool",
+		"1": "block/iron_door_bottom",
+		"particle": "block/light_gray_wool"
 	},
 	"elements": [
 		{

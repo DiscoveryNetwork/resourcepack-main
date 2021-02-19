@@ -1,10 +1,24 @@
 {
-	"parent": "item/generated",
+	"parent": "item/handheld",
 	"textures": {
-		"layer0": "item/iron_pickaxe"
+		"layer0": "items/iron_pickaxe"
 	},
 	"overrides": [
-		{ "predicate": { "damage": 0 }, "model": "item/hat" },
-		{ "predicate": { "damaged": 1 }, "model": "item/hat" }
+		{ "predicate": { "damage": 0 }, "model": "item/iron_pickaxe" },
+		{ "predicate": { "damaged": 0, "damage": 0.00398406374502 }, "model": "item/atr/props/atr_bin" },
+		{ "predicate": { "damaged": 0, "damage": 0.01195219123506 }, "model": "item/atr/props/signs/13" },
+		{ "predicate": { "damaged": 0, "damage": 0.01593625498008 }, "model": "item/atr/props/signs/bg" },
+		{ "predicate": { "damaged": 0, "damage": 0.0199203187251 }, "model": "item/atr/props/signs/crr" },
+		{ "predicate": { "damaged": 0, "damage": 0.02390438247012 }, "model": "item/atr/props/signs/heave" },
+		{ "predicate": { "damaged": 0, "damage": 0.027888446215139 }, "model": "item/atr/props/signs/mauder" },
+		{ "predicate": { "damaged": 0, "damage": 0.031872509960159 }, "model": "item/atr/props/signs/oblivion" },
+		{ "predicate": { "damaged": 0, "damage": 0.035856573705179 }, "model": "item/atr/props/signs/rita" },
+		{ "predicate": { "damaged": 0, "damage": 0.039840637450199 }, "model": "item/atr/props/signs/sbr" },
+		{ "predicate": { "damaged": 0, "damage": 0.043824701195219 }, "model": "item/atr/props/signs/spinball" },
+		{ "predicate": { "damaged": 0, "damage": 0.047808764940239 }, "model": "item/atr/props/signs/towers" },
+		{ "predicate": { "damaged": 0, "damage": 0.051792828685259 }, "model": "item/atr/props/signs/wicker" },
+		{ "predicate": { "damaged": 0, "damage": 0.055776892430279 }, "model": "item/atr/props/signs/mutiny" },
+		{ "predicate": { "damaged": 0, "damage": 0.059760956175299 }, "model": "item/iron_pickaxe" },
+		{ "predicate": { "damaged": 1 }, "model": "item/iron_pickaxe" }
 	]
 }
