@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v2
       
       - name: Zip folder
-        run: zip -r discov-resourcepack-main-${{ github.run_number }}.zip .
+        run: zip -r discov-resourcepack-main-${{ github.run_number }}.zip . -x .git/**\* .github/**\*
 
       - name: Create release
         uses: actions/create-release@v1
@@ -23,8 +23,8 @@ jobs:
         with:
           draft: false
           prerelease: false
-          release_name: build-${{ github.run_number }}
-          tag_name: ${{ github.run_id }}
+          release_name: ${{ github.ref_name }}-${{ github.run_id }}
+          tag_name: ${{ github.ref_name }}-${{ github.run_id }}
           body_path: CHANGELOG.md
           
       - name: Add artifact to release
